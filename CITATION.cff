@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper it reproduces."
+title: "Wandering bumps in stochastic neural fields: MATLAB code"
+type: software
+authors:
+  - family-names: Kilpatrick
+    given-names: Zachary P.
+license: MIT
+preferred-citation:
+  type: article
+  title: "Wandering Bumps in Stochastic Neural Fields"
+  authors:
+    - family-names: Kilpatrick
+      given-names: Zachary P.
+    - family-names: Ermentrout
+      given-names: Bard
+  journal: "SIAM Journal on Applied Dynamical Systems"
+  volume: 12
+  issue: 1
+  start: 61
+  end: 94
+  year: 2013
+  doi: "10.1137/120877106"
