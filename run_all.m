@@ -3,7 +3,7 @@ function run_all(varargin)
 %     Z. P. Kilpatrick and B. Ermentrout, "Wandering bumps in stochastic neural fields",
 %     SIAM J. Appl. Dyn. Syst. 12(1):61-94, 2013.
 %
-%   run_all                    paper-scale runs with the grid solver (about 2 hours)
+%   run_all                    paper-scale runs with the grid solver (about 1.5 hours)
 %   run_all('fast',true)       exact 2D reduction where there is no input (about 10 minutes,
 %                              mostly Figs. 7 and 8, which have an input)
 %   run_all('quick',true)      fewer realizations and shorter runs (a few minutes)

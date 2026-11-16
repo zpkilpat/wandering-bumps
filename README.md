@@ -67,7 +67,7 @@ The weight and the noise only ever drive the cos x and sin x modes, so the integ
 
 | | runtime |
 | --- | --- |
-| `run_all` with the grid solver | about 2 hours |
+| `run_all` with the grid solver | about 1.5 hours |
 | `run_all('fast', true)` | about 10 minutes, mostly Figs. 7 and 8 |
 | `run_all('quick', true)` | a few minutes |
 
